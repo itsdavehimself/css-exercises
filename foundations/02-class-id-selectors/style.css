@@ -1,0 +1,19 @@
+.odd {
+    background-color: #FFC2BD;
+    font-family: Verdana, 'DejaVu San', sans-serif;
+}
+
+#idone {
+    color: #2B40FF;
+    font-size: 36px
+}
+
+.odd.font{
+    font-size: 24px;
+}
+
+#idtwo {
+    background-color: #7CFFC4;
+    font-size: 24px;
+    font-weight: 700;
+}
